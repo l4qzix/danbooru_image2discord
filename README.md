@@ -1,5 +1,7 @@
 # Setup
-pip install pybooru requests
+pip install --user Pybooru <br>
+pip install requests
+
 
 # Feature
 ・send the image that was retrieved from danbooru by discord webhook<br>
