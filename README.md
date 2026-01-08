@@ -1,7 +1,9 @@
 # Setup
 pip install --user Pybooru <br>
 pip install requests
-
+# script
+main1.py:retrieves all image from the tag **including fanart**
+main2.py:retrieves **only official art** image from the tag
 
 # Feature
 ・send the image that was retrieved from danbooru by discord webhook<br>
