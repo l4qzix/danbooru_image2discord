@@ -2,7 +2,7 @@
 pip install --user Pybooru <br>
 pip install requests
 # script
-main1.py:retrieves all image from the tag **including fanart**
+main1.py:retrieves all image from the tag **including fanart**<br>
 main2.py:retrieves **only official art** image from the tag
 
 # Feature
