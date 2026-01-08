@@ -4,8 +4,8 @@ import time
 import io
 import os
 
-TAG = ""
-WEBHOOK_URL = ""
+TAG = ""#place the danbooru tag you want to search
+WEBHOOK_URL = ""#place the webhook url here
 LIMIT = 10
 SLEEP = 1.2
 LAST_ID_FILE = f"{TAG}official_artlast_id.txt"
